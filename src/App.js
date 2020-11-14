@@ -1,8 +1,8 @@
 import React from "react";
-import Say from "./Say";
+import EventPractice from "./EventPractice";
 
 const App = () => {
-  return <Say />; // Say 컴포넌트 렌더링.
+    return <EventPractice />; // EventPractice 컴포넌트 렌더링.
 };
 
 export default App;
